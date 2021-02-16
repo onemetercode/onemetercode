@@ -1,4 +1,5 @@
 ### Hi there 👋
+ I’m currently learning, python programming and I just want to share some of the knowledge that I acquire. There is a comments in some of my codes so that you can understand easily. Thank you.
 
 <!--
 **onemetercode/onemetercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
